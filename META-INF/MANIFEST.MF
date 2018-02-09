@@ -1,0 +1,1 @@
+Main-Class: kz.converter.msg.MsgConverter
